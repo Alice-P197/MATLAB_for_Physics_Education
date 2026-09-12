@@ -1,0 +1,20 @@
+# MATLAB source files are organized in 第*章* folders.
+# Ignore local tooling, backups, and non-source deliverables.
+
+# Auto-generated analysis / tooling scripts
+analyze_files.py
+apply_style.py
+do_rename.py
+validate.py
+_extract_comments.py
+_extract_models.py
+_model_extract.txt
+_combined_stats.txt
+
+# Backup archive
+_backup_m_files.zip
+
+# HTML deliverables (physics simulations and docs)
+physics-sim/
+physics-models/
+author_report.html
